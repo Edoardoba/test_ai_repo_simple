@@ -1,6 +1,5 @@
 # simple_ai.py
 # A very simple AI / ML example using scikit-learn
-
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score

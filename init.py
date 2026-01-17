@@ -4,6 +4,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 import numpy as np
 
+
 # 1. Create a simple dataset
 # X = numbers, y = 0 if even, 1 if odd
 X = np.array([[i] for i in range(100)])

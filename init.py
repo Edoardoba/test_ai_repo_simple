@@ -6,6 +6,7 @@ import numpy as np
 
 
 # 1. Create a simple dataset
+
 # X = numbers, y = 0 if even, 1 if odd
 X = np.array([[i] for i in range(100)])
 y = np.array([i % 2 for i in range(100)])
